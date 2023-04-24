@@ -1,0 +1,9 @@
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\bin\Release\PianoOfTheDead.dll
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\bin\Release\PianoOfTheDead.pdb
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\bin\Release\ScriptHookVDotNet2.dll
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\bin\Release\ScriptHookVDotNet2.xml
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\obj\Release\PianoOfTheDead.csproj.AssemblyReference.cache
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\obj\Release\PianoOfTheDead.csproj.CoreCompileInputs.cache
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\obj\Release\PianoOfTheDead.csproj.CopyComplete
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\obj\Release\PianoOfTheDead.dll
+C:\Users\razer\OneDrive\Dokumente\PianoOfTheDead\PianoOfTheDead\obj\Release\PianoOfTheDead.pdb
