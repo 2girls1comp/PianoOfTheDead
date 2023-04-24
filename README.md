@@ -21,7 +21,7 @@ Instructions:
 - Shift + Z to despawn the Piano of the Dead
 
 Requirements:
-- ![Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
-- ![Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
+- [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
+- [Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
 
-![PianoOfTheDead](screenshots/PianoOfTheDead1.png)
+![PianoOfTheDead](screenshots/PianoOfTheDead1.jpg)
