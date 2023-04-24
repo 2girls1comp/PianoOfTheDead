@@ -21,7 +21,7 @@ Instructions:
 - Shift + Z to despawn the Piano of the Dead
 
 Requirements:
-Script Hook V
-Script Hook V Dot Net
+- Script Hook V
+- Script Hook V Dot Net
 
-
+![PianoOfTheDead](screenshots/PianoOfTheDead1.png)

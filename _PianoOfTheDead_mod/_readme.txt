@@ -6,6 +6,9 @@ A mod for GTA V that turns the game into a music instrument. The GTA V Piano of 
 
 The GTA V Piano of the Dead is open to all musicians and composers who would like to work with it in any capacity. Interested parties are welcome to send a request via email to 0_o@2girls1comp.xyz
 
+Download: 
+https://www.gta5-mods.com/scripts/piano-of-the-dead
+
 Demo:
 https://youtu.be/vGVazL3JfdA
 
