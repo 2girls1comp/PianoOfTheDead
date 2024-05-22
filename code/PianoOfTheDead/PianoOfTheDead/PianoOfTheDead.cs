@@ -7,8 +7,6 @@ using GTA.Native;
 using System.Media;
 using NAudio.Midi;
 
-/////TO DO: ADD MIDI SUPPORT
-
 namespace PianoOfTheDead
 {
     public class PianoOfTheDead : Script
